@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>ztの本子</title>
+        <link>https://mundanelife.github.io/</link>
+        <description>Recent content on ztの本子</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 28 Feb 2022 08:12:46 +0800</lastBuildDate><atom:link href="https://mundanelife.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>云计算</title>
+        <link>https://mundanelife.github.io/p/%E4%BA%91%E8%AE%A1%E7%AE%97/</link>
+        <pubDate>Mon, 28 Feb 2022 08:12:46 +0800</pubDate>
+        
+        <guid>https://mundanelife.github.io/p/%E4%BA%91%E8%AE%A1%E7%AE%97/</guid>
+        <description>&lt;img src="https://mundanelife.github.io/p/%E4%BA%91%E8%AE%A1%E7%AE%97/1.jpg" alt="Featured image of post 云计算" /&gt;&lt;p&gt;&lt;img src=&#34;https://mundanelife.github.io/p/%E4%BA%91%E8%AE%A1%E7%AE%97/%E4%BA%91%E5%B9%B3%E5%8F%B0%E8%AE%BF%E9%97%AE.png&#34;
+	width=&#34;605&#34;
+	height=&#34;786&#34;
+	srcset=&#34;https://mundanelife.github.io/p/%E4%BA%91%E8%AE%A1%E7%AE%97/%E4%BA%91%E5%B9%B3%E5%8F%B0%E8%AE%BF%E9%97%AE_hu000d3c8ab61405a89e5f99f4689a34e5_160584_480x0_resize_box_3.png 480w, https://mundanelife.github.io/p/%E4%BA%91%E8%AE%A1%E7%AE%97/%E4%BA%91%E5%B9%B3%E5%8F%B0%E8%AE%BF%E9%97%AE_hu000d3c8ab61405a89e5f99f4689a34e5_160584_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;76&#34;
+		data-flex-basis=&#34;184px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>网络协议分析</title>
+        <link>https://mundanelife.github.io/p/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE%E5%88%86%E6%9E%90/</link>
+        <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://mundanelife.github.io/p/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE%E5%88%86%E6%9E%90/</guid>
+        <description>&lt;img src="https://mundanelife.github.io/p/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE%E5%88%86%E6%9E%90/1.jpg" alt="Featured image of post 网络协议分析" /&gt;</description>
+        </item>
+        <item>
+        <title>github&#43;hugo搭建个人博客</title>
+        <link>https://mundanelife.github.io/p/github-hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+        <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://mundanelife.github.io/p/github-hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+        <description>&lt;img src="https://mundanelife.github.io/p/github-hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/1.jpg" alt="Featured image of post github&#43;hugo搭建个人博客" /&gt;&lt;p&gt;由于hexo生成速度太慢，在这次整理博客时尝试使用hugo。记录搭建过程方便自己后面折腾的时候查看，也希望能帮助同样搭建博客的小伙伴节省时间。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;参考文章&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://sspai.com/post/59904&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;浅谈我为什么从 HEXO 迁移到 HUGO - 少数派 (sspai.com)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.gohugo.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo中文文档 (gohugo.org)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.stack.jimmycai.com/zh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;介绍 | Hugo 主题 Stack (jimmycai.com)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;hugo-配置windows&#34;&gt;hugo 配置（windows）&lt;/h2&gt;
+&lt;h4 id=&#34;git和go&#34;&gt;git和go&lt;/h4&gt;
+&lt;p&gt;hugo需要git和go环境&lt;/p&gt;
+&lt;p&gt;在&lt;a class=&#34;link&#34; href=&#34;https://git-scm.com/downloads&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;git官网&lt;/a&gt;下载对应版本安装包进行安装&lt;/p&gt;
+&lt;p&gt;在&lt;a class=&#34;link&#34; href=&#34;https://go.dev/dl/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;go官网&lt;/a&gt;下载对应安装包&lt;/p&gt;
+&lt;h4 id=&#34;hugo&#34;&gt;hugo&lt;/h4&gt;
+&lt;p&gt;1.从&lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;hugo&lt;/a&gt;下载压缩包解压&lt;/p&gt;
+&lt;p&gt;2.为hugo目录设置环境变量&lt;/p&gt;
+&lt;p&gt;3.win+r打开cmd输入hugo version出现版本信息说明配置成功&lt;/p&gt;
+&lt;p&gt;完成上述之后hugo server和hugo new等命令均报错，未解决，遂改用wsl&lt;/p&gt;
+&lt;h2 id=&#34;hugo-配置linux&#34;&gt;hugo 配置（linux）&lt;/h2&gt;
+&lt;p&gt;我使用win11的wsl（ubuntu20.04）&lt;/p&gt;
+&lt;p&gt;1.从&lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;hugo&lt;/a&gt;下载对应架构deb压缩包（用arch查看linux架构）&lt;/p&gt;
+&lt;p&gt;2.dpkg -i 压缩包 解压&lt;/p&gt;
+&lt;p&gt;3.hugo version 看是否安装成功&lt;/p&gt;
+&lt;p&gt;4.hugo server 在本地预览。默认端口为1313，也可以-p指定端口。在浏览器http://localhost:1313查看&lt;/p&gt;
+&lt;h2 id=&#34;主题安装与配置&#34;&gt;主题安装与配置&lt;/h2&gt;
+&lt;h3 id=&#34;安装&#34;&gt;安装&lt;/h3&gt;
+&lt;p&gt;官网主题库&lt;a class=&#34;link&#34; href=&#34;https://themes.gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo Themes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;1.git clone喜欢的主题或者下载zip解压到博客的themes文件夹中(优先选择有exampleSite的主题方便构建网站)&lt;/p&gt;
+&lt;p&gt;2.修改博客主目录下的配置文件将主题设置为将要使用的主题(要注意该名称与themes文件夹中主题文件夹名字一致)&lt;/p&gt;
+&lt;h3 id=&#34;stack主题配置&#34;&gt;stack主题配置&lt;/h3&gt;
+&lt;p&gt;我选择了stack主题&lt;/p&gt;
+&lt;h4 id=&#34;发布文章&#34;&gt;发布文章&lt;/h4&gt;
+&lt;p&gt;在content\post下使用markdown进行编写。md文档必须命名为index.md,否则会出现文章图片和封面图片无法显示的情况。
+如要为文章设置封面，在开头标注image = &amp;ldquo;xxx.jpg&amp;rdquo;&lt;/p&gt;
+&lt;h4 id=&#34;设置分类&#34;&gt;设置分类&lt;/h4&gt;
+&lt;p&gt;在content\categories下面进行分类修改&lt;/p&gt;
+&lt;p&gt;设置样例&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;categories:
+    - c++ 
+tags :
+    - 贪心算法
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;github托管&#34;&gt;github托管&lt;/h2&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
